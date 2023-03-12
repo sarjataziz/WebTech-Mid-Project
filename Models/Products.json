@@ -1,0 +1,23 @@
+{
+    "1": {
+        "productID": "22",
+        "name": "Carol Phelps",
+        "imgUrl": "https:\/\/images.pexels.com\/photos\/19090\/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Distinctio Nihil ve",
+        "price": "170"
+    },
+    "2": {
+        "productID": "54",
+        "name": "Dawn Blevins",
+        "imgUrl": "https:\/\/images.pexels.com\/photos\/292999\/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Ab dolore id quia do",
+        "price": "611"
+    },
+    "3": {
+        "productID": "99",
+        "name": "Thor Webb",
+        "imgUrl": "https:\/\/thumbs.dreamstime.com\/z\/leather-shoes-26612971.jpg",
+        "description": "Beatae commodi dolor",
+        "price": "38"
+    }
+}
